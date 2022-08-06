@@ -20,7 +20,6 @@
 ![SELENIUM](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=SELENIUM3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CUCUMBER](https://img.shields.io/badge/-CUCUMBER-0D1117?style=for-the-badge&logo=CUCUMBER&labelColor=0D1117)&nbsp;
 ![JUNIT](https://img.shields.io/badge/-JUNIT-0D1117?style=for-the-badge&logo=JUNIT&logoColor=purple&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Intellij](https://img.shields.io/badge/-Intellij%20Idea%20-0D1117?style=for-the-badge&logo=intellij&logoColor=007ACC&labelColor=0D1117)&nbsp;
