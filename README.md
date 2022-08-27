@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=headerfontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luis+Italo+;I'm+31+years+old;I+from+Brasil,+CE;I+study+Quality+Assurance+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -16,6 +16,7 @@
 
 ### Main skills:
 ![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![RUBY](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=Ruby3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![BDD](https://img.shields.io/badge/-BDD-0D1117?style=for-the-badge&logo=BDD3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SELENIUM](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=SELENIUM3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CUCUMBER](https://img.shields.io/badge/-CUCUMBER-0D1117?style=for-the-badge&logo=CUCUMBER&labelColor=0D1117)&nbsp;
