@@ -1,7 +1,7 @@
 
 - 😄 Hi, I’m <b>@luisitalo_</b>
 - 💻 I’m interested in ... <b>Software tests</b>
-- 🔎 I’m currently learning ... <b>Java, CTFL, Scrum, Kanban, BDD, Selenium, Cucumber</b>
+- 🔎 I’m currently learning ... <b>Java, Ruby, CTFL, Scrum, Kanban, BDD, Selenium, Cucumber</b>
 - 😍 I’m looking to collaborate on ... <b>QA tester / QA Analyst</b>
 
 
